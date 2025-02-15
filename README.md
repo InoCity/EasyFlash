@@ -1,4 +1,4 @@
-<img src="EasyFlash_logo;.png">
+<img src="EasyFlash_logo.png">
 
 an .batch tool to flash Motorola's G34 stock rom
 
