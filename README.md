@@ -4,7 +4,9 @@ an .batch tool to flash Motorola's stock rom
 
 ## 📱 Requirements
 - An computer running Windows
+- Your device stockrom
 - Motorola device on Bootloader
-- Platform-tools
+- [Platform-tools](https://developer.android.com/tools/releases/platform-tools?hl=pt-br)
+
 :)
 
